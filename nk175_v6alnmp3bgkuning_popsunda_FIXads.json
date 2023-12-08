@@ -3,7 +3,7 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-7435658436136399/1450172915",
+      "main_ads_banner": "",
       "main_ads_intertitial":"ca-app-pub-7435658436136399/8183102225",
       "main_ads_natives":"ca-app-pub-7435658436136399/1565722987",
       "main_ads_rewards":"ca-app-pub-7435658436136399/1666080749",
